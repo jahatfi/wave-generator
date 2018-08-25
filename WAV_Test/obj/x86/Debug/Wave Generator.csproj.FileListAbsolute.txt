@@ -1,0 +1,8 @@
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\WAV_Test.Main.resources
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\WAV_Test.Properties.Resources.resources
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\Wave Generator.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\WAV_Test\WAV_Test\bin\Debug\Wave Generator.exe
+C:\Users\Public\Documents\WAV_Test\WAV_Test\bin\Debug\Wave Generator.pdb
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\Wave Generator.exe
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\Wave Generator.pdb
+C:\Users\Public\Documents\WAV_Test\WAV_Test\obj\x86\Debug\Wave Generator.csprojResolveAssemblyReference.cache

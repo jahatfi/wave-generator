@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wave Generator", "WAV_Test\Wave Generator.csproj", "{A64CD5AB-160E-4AC8-961E-5D0E65AFAA75}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WaveGeneratorInstaller", "WaveGeneratorInstaller\WaveGeneratorInstaller.vdproj", "{A0557845-8FA6-449A-A8ED-A9772783D4B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64CD5AB-160E-4AC8-961E-5D0E65AFAA75}.Debug|x86.ActiveCfg = Debug|x86
+		{A64CD5AB-160E-4AC8-961E-5D0E65AFAA75}.Debug|x86.Build.0 = Debug|x86
+		{A64CD5AB-160E-4AC8-961E-5D0E65AFAA75}.Release|x86.ActiveCfg = Release|x86
+		{A64CD5AB-160E-4AC8-961E-5D0E65AFAA75}.Release|x86.Build.0 = Release|x86
+		{A0557845-8FA6-449A-A8ED-A9772783D4B8}.Debug|x86.ActiveCfg = Debug
+		{A0557845-8FA6-449A-A8ED-A9772783D4B8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
